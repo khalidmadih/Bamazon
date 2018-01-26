@@ -1,2 +1,2 @@
 # Bamazon
-Amazon-like storefront with MySQL &amp; Node.js
+Amazon-like storefront with MySQL &amp; Node.js.
