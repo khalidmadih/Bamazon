@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an online storefront / Command line app that take orders from customers and reducesinventory. It will also let the user to view, track, add and update the product inventory as a manager
+This is an online storefront / Command line app that take orders from customers and reduces inventory. It will also let the user to view, track, add and update the product inventory as a manager
 
 #### The Customer View 
 ***
