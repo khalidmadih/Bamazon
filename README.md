@@ -46,7 +46,7 @@ To run the Manager view use the following command:
 
 #### The  Supervisor View 
 ***
-Thisview allow will show users a summarized view of the store sales and profits. The user will be prompted to choose from the following options:
+This view allow will show users a summarized view of the store sales and profits. The user will be prompted to choose from the following options:
 
 * View Product Sales by Department
 * View Departments
