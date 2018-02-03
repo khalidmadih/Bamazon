@@ -8,7 +8,7 @@ This is an online storefront / Command line app that take orders from customers 
 ***
 The customer view allows users to view a list of items available for purchase. The user is then be prompted to enter the product id number and how many items they wish to purchase. If the item is available, the order will be completed and the user will see the total amount of their purchase.
 
-![demo]
+<!-- Demo video will follow -->
 
 
 To run the customer view use the following command:
@@ -21,23 +21,23 @@ This view allows the users to view and edit the inventory of the store. They wil
 
 * View products for sale:  
 
-![demo]
+<!-- Demo video will follow -->
 
 * View low inventory: 
 
-![demo]
+<!-- Demo video will follow -->
 
 * View departments: 
 
-![demo]
+<!-- Demo video will follow -->
 
 * Add to inventory: 
 
-![demo]
+<!-- Demo video will follow -->
 
 * Add a new product: the app allow the manager to add a completely new product to the store.
 
-![demo]
+<!-- Demo video will follow -->
 
 
 To run the Manager view use the following command:
@@ -53,7 +53,7 @@ Thisview allow will show users a summarized view of the store sales and profits.
 * View Sales
 * Create New Department
 
-![demo]
+<!-- Demo video will follow -->
 
 To run the Supervisor view use the following command:
 ** node bamazonsupervisor.js
