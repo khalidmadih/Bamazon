@@ -12,7 +12,7 @@ The customer view allows users to view a list of items available for purchase. T
 
 
 To run the customer view use the following command:
-** node bamazoncustomer.js
+** node bamazonCustomer.js
 
 
 #### The Manager View 
@@ -41,7 +41,7 @@ This view allows the users to view and edit the inventory of the store. They wil
 
 
 To run the Manager view use the following command:
-* node bamazonmanager.js
+* node bamazonManager.js
 
 
 #### The  Supervisor View 
@@ -58,7 +58,7 @@ This view allow will show users a summarized view of the store sales and profits
 ![Manager View](/pictures/bSupervisor12.png)
 
 To run the Supervisor view use the following command:
-** node bamazonsupervisor.js
+** node bamazonSupervisor.js
 
 ### The Languages/Packages Used:
 
